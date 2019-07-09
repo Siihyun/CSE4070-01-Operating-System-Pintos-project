@@ -1,11 +1,12 @@
 # CSE4070-01-Operating-System-Pintos-project
 Sogang Operation system pintos project assignment(0~4)
 
-==============
+===========================================================
 
 ## Project 0 : Preparation
 
 - Understand Pintos OS Structure
+
 
 ## Project 1 : User Program Basic
 
@@ -13,16 +14,19 @@ Sogang Operation system pintos project assignment(0~4)
 - Develop system call
 - Restrict accessing Kernel Address
 
+
 ## Project 2 : User Program
 
 - Develop system call associated with File System
 - Create, Remove ,Open, Close, Filesize, Read, Write, Seek, Tell
 - Change Synchronization from busy-waiting to Semaphore
 
+
 ## Project 3 : Thread
 
 - Change Alarm clock implementation from busy-waiting method to blocking thread method
 - Develop priority scheduling
+
 
 ## Project 4 : Virtual Memory
 
